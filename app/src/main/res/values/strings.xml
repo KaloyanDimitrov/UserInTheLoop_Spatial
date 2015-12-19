@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InterfaceUserInLoop</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Second</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_options">OptionsActivity</string>
+</resources>
